@@ -1,0 +1,15 @@
+C:\Temp\idades\obj\Debug\net6.0\idades.csproj.AssemblyReference.cache
+C:\Temp\idades\obj\Debug\net6.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\idades\obj\Debug\net6.0\idades.AssemblyInfoInputs.cache
+C:\Temp\idades\obj\Debug\net6.0\idades.AssemblyInfo.cs
+C:\Temp\idades\obj\Debug\net6.0\idades.csproj.CoreCompileInputs.cache
+C:\Temp\idades\bin\Debug\net6.0\idades.exe
+C:\Temp\idades\bin\Debug\net6.0\idades.deps.json
+C:\Temp\idades\bin\Debug\net6.0\idades.runtimeconfig.json
+C:\Temp\idades\bin\Debug\net6.0\idades.dll
+C:\Temp\idades\bin\Debug\net6.0\idades.pdb
+C:\Temp\idades\obj\Debug\net6.0\idades.dll
+C:\Temp\idades\obj\Debug\net6.0\refint\idades.dll
+C:\Temp\idades\obj\Debug\net6.0\idades.pdb
+C:\Temp\idades\obj\Debug\net6.0\idades.genruntimeconfig.cache
+C:\Temp\idades\obj\Debug\net6.0\ref\idades.dll
