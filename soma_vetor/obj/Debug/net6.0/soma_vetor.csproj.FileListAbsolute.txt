@@ -1,0 +1,15 @@
+C:\Temp\soma_vetor\bin\Debug\net6.0\soma_vetor.exe
+C:\Temp\soma_vetor\bin\Debug\net6.0\soma_vetor.deps.json
+C:\Temp\soma_vetor\bin\Debug\net6.0\soma_vetor.runtimeconfig.json
+C:\Temp\soma_vetor\bin\Debug\net6.0\soma_vetor.dll
+C:\Temp\soma_vetor\bin\Debug\net6.0\soma_vetor.pdb
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.AssemblyReference.cache
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfoInputs.cache
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.AssemblyInfo.cs
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.dll
+C:\Temp\soma_vetor\obj\Debug\net6.0\refint\soma_vetor.dll
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.pdb
+C:\Temp\soma_vetor\obj\Debug\net6.0\soma_vetor.genruntimeconfig.cache
+C:\Temp\soma_vetor\obj\Debug\net6.0\ref\soma_vetor.dll

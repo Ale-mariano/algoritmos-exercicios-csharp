@@ -24,7 +24,7 @@ namespace crescente
 				Console.WriteLine("Digite outros dois numeros:");
 				x = int.Parse(Console.ReadLine());
 				y = int.Parse(Console.ReadLine());
-			}
+			
 		}
 	}
 }

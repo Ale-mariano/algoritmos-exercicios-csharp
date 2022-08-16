@@ -1,0 +1,15 @@
+C:\Temp\soma_impares\bin\Debug\net6.0\soma_impares.exe
+C:\Temp\soma_impares\bin\Debug\net6.0\soma_impares.deps.json
+C:\Temp\soma_impares\bin\Debug\net6.0\soma_impares.runtimeconfig.json
+C:\Temp\soma_impares\bin\Debug\net6.0\soma_impares.dll
+C:\Temp\soma_impares\bin\Debug\net6.0\soma_impares.pdb
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.csproj.AssemblyReference.cache
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfoInputs.cache
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfo.cs
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.dll
+C:\Temp\soma_impares\obj\Debug\net6.0\refint\soma_impares.dll
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.pdb
+C:\Temp\soma_impares\obj\Debug\net6.0\soma_impares.genruntimeconfig.cache
+C:\Temp\soma_impares\obj\Debug\net6.0\ref\soma_impares.dll
