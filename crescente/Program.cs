@@ -1,32 +1,30 @@
 ﻿using System;
 
-namespace menor_de_tres
+namespace crescente
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			int x, y;
 
-            int x, y;
+			Console.WriteLine("Digite dois numeros:");
+			x = int.Parse(Console.ReadLine());
+			y = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite dois numeros: ");
-            x = int.Parse(Console.ReadLine());
-            y = int.Parse(Console.ReadLine());
+			while (x != y) {
+				if (x > y) {
+					Console.WriteLine("DECRESCENTE!");
+				}
+				else
+				{
+					Console.WriteLine("CRESCENTE!");
+				}
 
-            while (x != y){
-                if (x < y){
-                    Console.Write("CRESCENTE!");
-                 }
-             else {
-                Console.Write("DECRESCENTE!");
-            }
-
-            Console.Write("Digite outros dois numeros: ");
-            x = int.Parse(Console.ReadLine());
-            y = int.Parse(Console.ReadLine());
-
-
-
-        }
-    }
+				Console.WriteLine("Digite outros dois numeros:");
+				x = int.Parse(Console.ReadLine());
+				y = int.Parse(Console.ReadLine());
+			}
+		}
+	}
 }

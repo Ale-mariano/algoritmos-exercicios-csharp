@@ -3,3 +3,13 @@ C:\Temp\crescente\obj\Debug\net6.0\crescente.GeneratedMSBuildEditorConfig.editor
 C:\Temp\crescente\obj\Debug\net6.0\crescente.AssemblyInfoInputs.cache
 C:\Temp\crescente\obj\Debug\net6.0\crescente.AssemblyInfo.cs
 C:\Temp\crescente\obj\Debug\net6.0\crescente.csproj.CoreCompileInputs.cache
+C:\Temp\crescente\bin\Debug\net6.0\crescente.exe
+C:\Temp\crescente\bin\Debug\net6.0\crescente.deps.json
+C:\Temp\crescente\bin\Debug\net6.0\crescente.runtimeconfig.json
+C:\Temp\crescente\bin\Debug\net6.0\crescente.dll
+C:\Temp\crescente\bin\Debug\net6.0\crescente.pdb
+C:\Temp\crescente\obj\Debug\net6.0\crescente.dll
+C:\Temp\crescente\obj\Debug\net6.0\refint\crescente.dll
+C:\Temp\crescente\obj\Debug\net6.0\crescente.pdb
+C:\Temp\crescente\obj\Debug\net6.0\crescente.genruntimeconfig.cache
+C:\Temp\crescente\obj\Debug\net6.0\ref\crescente.dll
