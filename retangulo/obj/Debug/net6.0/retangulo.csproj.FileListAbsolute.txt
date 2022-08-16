@@ -1,0 +1,15 @@
+C:\Temp\retangulo\bin\Debug\net6.0\retangulo.exe
+C:\Temp\retangulo\bin\Debug\net6.0\retangulo.deps.json
+C:\Temp\retangulo\bin\Debug\net6.0\retangulo.runtimeconfig.json
+C:\Temp\retangulo\bin\Debug\net6.0\retangulo.dll
+C:\Temp\retangulo\bin\Debug\net6.0\retangulo.pdb
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.csproj.AssemblyReference.cache
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfoInputs.cache
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.AssemblyInfo.cs
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.csproj.CoreCompileInputs.cache
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.dll
+C:\Temp\retangulo\obj\Debug\net6.0\refint\retangulo.dll
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.pdb
+C:\Temp\retangulo\obj\Debug\net6.0\retangulo.genruntimeconfig.cache
+C:\Temp\retangulo\obj\Debug\net6.0\ref\retangulo.dll
